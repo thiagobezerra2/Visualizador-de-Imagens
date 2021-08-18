@@ -1,11 +1,5 @@
 
-<div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="Visualizador De Imagens" />
 
-  &#xa0;
-
- 
-</div>
 
 <h1 align="center">Visualizador De Imagens</h1>
 
@@ -48,7 +42,7 @@ Neste projeto usei as seguintes ferramentas:
 This project is under license from Apache License 2.0. For more details, see the [LICENSE](LICENSE.md) file.
 
 
-Made with :heart: by <a href="https://github.com/thiagobezerra2" target="_blank">{{YOUR_NAME}}</a>
+Made with :heart: by <a href="https://github.com/thiagobezerra2" target="_blank">thiagobezerra2</a>
 
 &#xa0;
 
