@@ -1,0 +1,18 @@
+C:\Users\thiag\Desktop\ProjetoFuncional\Visualizador de Imagens\Visualizador de Imagens\bin\Debug\net5.0-windows\Visualizador de Imagens.exe
+C:\Users\thiag\Desktop\ProjetoFuncional\Visualizador de Imagens\Visualizador de Imagens\bin\Debug\net5.0-windows\Visualizador de Imagens.deps.json
+C:\Users\thiag\Desktop\ProjetoFuncional\Visualizador de Imagens\Visualizador de Imagens\bin\Debug\net5.0-windows\Visualizador de Imagens.runtimeconfig.json
+C:\Users\thiag\Desktop\ProjetoFuncional\Visualizador de Imagens\Visualizador de Imagens\bin\Debug\net5.0-windows\Visualizador de Imagens.runtimeconfig.dev.json
+C:\Users\thiag\Desktop\ProjetoFuncional\Visualizador de Imagens\Visualizador de Imagens\bin\Debug\net5.0-windows\Visualizador de Imagens.dll
+C:\Users\thiag\Desktop\ProjetoFuncional\Visualizador de Imagens\Visualizador de Imagens\bin\Debug\net5.0-windows\ref\Visualizador de Imagens.dll
+C:\Users\thiag\Desktop\ProjetoFuncional\Visualizador de Imagens\Visualizador de Imagens\bin\Debug\net5.0-windows\Visualizador de Imagens.pdb
+C:\Users\thiag\Desktop\ProjetoFuncional\Visualizador de Imagens\Visualizador de Imagens\obj\Debug\net5.0-windows\Visualizador de Imagens.csprojAssemblyReference.cache
+C:\Users\thiag\Desktop\ProjetoFuncional\Visualizador de Imagens\Visualizador de Imagens\obj\Debug\net5.0-windows\Visualizador_de_Imagens.imagemListBox.resources
+C:\Users\thiag\Desktop\ProjetoFuncional\Visualizador de Imagens\Visualizador de Imagens\obj\Debug\net5.0-windows\Visualizador de Imagens.csproj.GenerateResource.cache
+C:\Users\thiag\Desktop\ProjetoFuncional\Visualizador de Imagens\Visualizador de Imagens\obj\Debug\net5.0-windows\Visualizador de Imagens.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\Desktop\ProjetoFuncional\Visualizador de Imagens\Visualizador de Imagens\obj\Debug\net5.0-windows\Visualizador de Imagens.AssemblyInfoInputs.cache
+C:\Users\thiag\Desktop\ProjetoFuncional\Visualizador de Imagens\Visualizador de Imagens\obj\Debug\net5.0-windows\Visualizador de Imagens.AssemblyInfo.cs
+C:\Users\thiag\Desktop\ProjetoFuncional\Visualizador de Imagens\Visualizador de Imagens\obj\Debug\net5.0-windows\Visualizador de Imagens.csproj.CoreCompileInputs.cache
+C:\Users\thiag\Desktop\ProjetoFuncional\Visualizador de Imagens\Visualizador de Imagens\obj\Debug\net5.0-windows\Visualizador de Imagens.dll
+C:\Users\thiag\Desktop\ProjetoFuncional\Visualizador de Imagens\Visualizador de Imagens\obj\Debug\net5.0-windows\ref\Visualizador de Imagens.dll
+C:\Users\thiag\Desktop\ProjetoFuncional\Visualizador de Imagens\Visualizador de Imagens\obj\Debug\net5.0-windows\Visualizador de Imagens.pdb
+C:\Users\thiag\Desktop\ProjetoFuncional\Visualizador de Imagens\Visualizador de Imagens\obj\Debug\net5.0-windows\Visualizador de Imagens.genruntimeconfig.cache

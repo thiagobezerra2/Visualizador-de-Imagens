@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Visualizador de Imagens/1.0.0": {
+        "runtime": {
+          "Visualizador de Imagens.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Visualizador de Imagens/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
